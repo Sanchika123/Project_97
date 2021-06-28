@@ -1,0 +1,13 @@
+body{
+    background-color:  #f5cac2  ;
+   overflow: hidden;
+}
+
+.login_form{
+    background-color:#fae4df;
+     margin-left: 30%;
+      margin-right: 30%; 
+      margin-top: 5%; 
+      padding-left: 5%; 
+       padding-top: 2%;
+}
